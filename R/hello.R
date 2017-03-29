@@ -13,6 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 # And do weird things
+# Do more weird things
 
 hello <- function() {
   print("Hello, world!")
